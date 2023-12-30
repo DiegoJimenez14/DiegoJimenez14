@@ -8,4 +8,4 @@ Analista Jr en proceso formativo
 # 💻 Tech Stack:
 
 
-[![My Skills](https://skillicons.dev/icons?i=aws,linux,docker,powershell,vscode,azure,=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,linux,docker,ai,pr,powershell,vscode,azure,=3)](https://skillicons.dev)
