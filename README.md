@@ -8,5 +8,5 @@ Analista Jr en proceso formativo
 # 💻 Tech Stack:
 
 
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,=3)](https://skillicons.dev)
 
