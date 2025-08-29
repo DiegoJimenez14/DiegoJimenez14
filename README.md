@@ -1,5 +1,5 @@
 # 💫 About Me:
-Analista Jr en proceso formativo 
+Cloud & Network Security Analyst | Cybersecurity Operations | SIEM | GCP & AWS Security | CISSP | Risk & Compliance | SOC Analyst
 
 
 ## 🌐 Socials:
