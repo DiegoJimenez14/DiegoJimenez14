@@ -1,13 +1,13 @@
 # Hi there, I'm Diego Jimenez 👋
 
-### 📊 Data Analyst | Cloud & Network Security Specialist
+###  Data Analyst | Cloud & Network Security Specialist
 
 Uniendo el mundo de los **Datos** con la solidez de la **Infraestructura**.
 Mi enfoque actual es transformar datos complejos en estrategias de negocio claras, aprovechando mi experiencia técnica en Telecomunicaciones y Seguridad para entender el "Big Picture".
 
 ---
 
-## 🛠 Tech Stack & Herramientas
+##  Tech Stack & Herramientas
 
 Mi caja de herramientas combina análisis de datos y operaciones técnicas:
 
@@ -18,7 +18,7 @@ Mi caja de herramientas combina análisis de datos y operaciones técnicas:
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Proyecto | Descripción | Stack |
 | :--- | :--- | :--- |
@@ -27,7 +27,7 @@ Mi caja de herramientas combina análisis de datos y operaciones técnicas:
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DiegoJimenez14&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
