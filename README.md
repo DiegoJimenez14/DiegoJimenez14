@@ -21,8 +21,9 @@ Mi caja de herramientas combina análisis de datos y operaciones técnicas:
 
 | Proyecto | Descripción | Stack |
 | :--- | :--- | :--- |
-| **[Telco Customer Churn Analysis](https://github.com/DiegoJimenez14/An-lisis-de-Churn-en-Telecom)** | Diagnóstico de fuga de clientes (Churn) del 26.5%. Identificación de fallas en Fibra Óptica y diseño de dashboard ejecutivo. | ![SQL](https://img.shields.io/badge/SQL-00000F?style=flat-square&logo=mysql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) |
-| **[E-commerce RFM Segmentation](https://github.com/DiegoJimenez14/Ecommerce-RFM-Segmentation)** | Segmentación de +500k transacciones usando lógica RFM. Se detectó una baja retención (segmento "Hibernating" dominante) y escasez de clientes VIP. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
+| **[Bogotá Security Radar](https://github.com/DiegoJimenez14/Bogota-Security-Radar)** | Monitor de seguridad ciudadana en tiempo real. Visualización de 15k incidentes sobre OpenStreetMap con filtrado dinámico (SQL + Streamlit). | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **[E-commerce RFM Segmentation](https://github.com/DiegoJimenez14/Ecommerce-RFM-Segmentation)** | Segmentación estratégica de +500k clientes. Detección de problemas de retención (Churn) usando análisis RFM y Pandas. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
+| **[Telco Customer Churn Analysis](https://github.com/DiegoJimenez14/An-lisis-de-Churn-en-Telecom)** | Diagnóstico de fuga de clientes (26.5%). Identificación de fallas críticas en servicios de Fibra Óptica mediante SQL y Power BI. | ![SQL](https://img.shields.io/badge/SQL-00000F?style=flat-square&logo=mysql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) |
 
 
 
