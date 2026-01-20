@@ -17,16 +17,17 @@ Mi caja de herramientas combina análisis de datos y operaciones técnicas:
 | ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
 
 
-## 🚀 Featured Projects
+## Proyectos Destacados
 
 | Proyecto | Descripción | Stack |
 | :--- | :--- | :--- |
+| **[CyberSentinel - Vulnerability Monitor](https://github.com/DiegoJimenez14/CyberSentinel-Vulnerability-Monitor)** | Monitor de vulnerabilidades corporativo (Enterprise). Transformación de logs en KPIs de negocio (MTTR, Risk Score) con diseño UI avanzado (Bento Grid) y modelado en estrella. | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-00000F?style=flat-square&logo=mysql&logoColor=white) |
 | **[Bogotá Security Radar](https://github.com/DiegoJimenez14/Bogota-Security-Radar)** | Monitor de seguridad ciudadana en tiempo real. Visualización de 15k incidentes sobre OpenStreetMap con filtrado dinámico (SQL + Streamlit). | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | **[E-commerce RFM Segmentation](https://github.com/DiegoJimenez14/Ecommerce-RFM-Segmentation)** | Segmentación estratégica de +500k clientes. Detección de problemas de retención (Churn) usando análisis RFM y Pandas. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
 | **[Telco Customer Churn Analysis](https://github.com/DiegoJimenez14/An-lisis-de-Churn-en-Telecom)** | Diagnóstico de fuga de clientes (26.5%). Identificación de fallas críticas en servicios de Fibra Óptica mediante SQL y Power BI. | ![SQL](https://img.shields.io/badge/SQL-00000F?style=flat-square&logo=mysql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) |
 
 
 
-## 🌐 Connect with Me
+##  Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/diego-jimenez-261060126/)
