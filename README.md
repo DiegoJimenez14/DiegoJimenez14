@@ -35,5 +35,5 @@ Mi caja de herramientas combina análisis de datos y operaciones técnicas:
 ¿Tienes alguna idea o proyecto en mente? ¡Hablemos!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Diego_Jimenez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([LINK_A_TU_LINKEDIN](https://www.linkedin.com/in/diego-jimenez-261060126/))
-[![X](https://img.shields.io/badge/X-@TuUsuario-000000?style=for-the-badge&logo=x&logoColor=white)]((https://x.com/95DAJ))
+[![X](https://img.shields.io/badge/X-@TuUsuario-000000?style=for-the-badge&logo=x&logoColor=white)]([LINK_A_TU_X](https://x.com/95DAJ))
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Hablemos-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573134850958)
